@@ -11,5 +11,8 @@ Results can be seen in csv , png and pdf formats
 
 - Q8 results are stored as plot images in a single pdf file.
 
+Project 2:
+SupervisedLearningProject 
+
 
 
